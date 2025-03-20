@@ -1,4 +1,5 @@
 #!/bin/bash
-clear
-echo "Soy el script 01"
+clear. funciones/funciones.sh
+saludo
+echo "Soy el Script 01" 
 exit 0
